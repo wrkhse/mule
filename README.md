@@ -63,7 +63,7 @@ Mule remembers across questions only when you explicitly ask it to.
 - [ ] One-off questions in the CLI and browser
 - [ ] Web and notes sources with skills from your directory
 - [ ] Memory across questions only when explicitly requested
-- [ ] Publish mule 0.1.0 to the stevenjpx2/taps tap
+- [ ] Publish mule 0.1.0 to the wrkhse/tap tap
 
 ## More
 
